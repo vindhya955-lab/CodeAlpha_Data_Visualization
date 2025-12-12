@@ -1,0 +1,13 @@
+Month,Sales,Profit,Category
+Jan,5000,700,Electronics
+Feb,6200,950,Clothing
+Mar,7200,1200,Electronics
+Apr,6800,800,Furniture
+May,7500,1400,Electronics
+Jun,8000,1600,Clothing
+Jul,8200,1700,Furniture
+Aug,7900,1550,Electronics
+Sep,8500,1800,Clothing
+Oct,9100,2000,Furniture
+Nov,9600,2300,Electronics
+Dec,10200,2600,Clothing
